@@ -7,15 +7,15 @@ url: "https://tmy87.github.io"
 
 
 # Secondary Parameters
-baseurl: "/project-pages"
+baseurl: "/envelope"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
+logo: /project-pages/img/logos/logo_final.pdf
 
 # Tertiary Parameters
-github_username:  projectpages
-project_repository: project-pages
-disqus_shortname: project-pages
+github_username:  tmy87
+project_repository: envelope_homepage
+disqus_shortname: envelope_homepage
 g-analytics: UA-75881392-1
 altmetric: true
 
